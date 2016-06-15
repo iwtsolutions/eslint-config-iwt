@@ -1,0 +1,21 @@
+{
+  "name": "eslint-config-iwt",
+  "version": "0.0.1",
+  "description": "ESLint options for IWT Health node packages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/iwtsolutions/eslint-config-iwt"
+  },
+  "keywords": [
+    "eslint",
+    "grunt",
+    "iwt",
+    "health"
+  ],
+  "author": "Matthew King <mking@iwthealth.com>",
+  "license": "MIT"
+}
