@@ -15,7 +15,7 @@ Include `.eslintrc.json` in your project with the following:
 
 Install grunt-eslint:
 
-    npm install --save-dev git+ssh://git@github.com:iwtsolutions/eslint-config-iwt.git
+    npm install --save-dev iwtsolutions/eslint-config-iwt
     npm install --save-dev grunt-eslint
 
 Update Gruntfile.js
